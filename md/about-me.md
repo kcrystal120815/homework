@@ -2,7 +2,7 @@
 
 ## <span style="color:blueviolet"> 기본 사항 </span>
 
-![김수정 사진](./assets/md/me/pic.jpg)
+![김수정 사진](./images/about-me/pic.jpg)
 
 - 이름: 김수정
 - 생일: 2000년 11월 08일
